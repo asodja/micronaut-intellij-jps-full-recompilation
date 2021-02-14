@@ -5,7 +5,7 @@ import io.micronaut.core.annotation.Introspected;
 @Introspected
 public class MyClass {
 
-    private static final String CONSTANT = "112123123";
+    private static final String CONSTANT = "1";
 
     private String value;
 
